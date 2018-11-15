@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.nullValue;
 import org.hamcrest.collection.IsCollectionWithSize;
 import org.junit.Test;
 
-public class ModelTester {
+public class ModelTest {
 	
 	@Test
 	public void buildGamePlatform() throws Exception {
