@@ -16,7 +16,7 @@ import net.distiller.gamecollect.model.Collectible;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class CollectibleServiceIT {
+public class CollectibleServiceTest {
 	
 	@Autowired
 	CollectibleService colService;

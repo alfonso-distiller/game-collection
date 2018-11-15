@@ -23,7 +23,7 @@ import net.distiller.gamecollect.model.Game;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GameServiceIT {
+public class GameServiceTest {
 	
 	@Autowired
 	GameService gameService;
